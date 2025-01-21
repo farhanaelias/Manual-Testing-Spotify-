@@ -1,8 +1,9 @@
 # Manual-Testing-Spotify-
-Overview
+Overview:
+
 This project demonstrates a comprehensive manual testing approach for the Spotify application. It includes test planning, execution, and documentation to ensure functionality, usability, and performance.
 
-Features
+Features-
 The project covers:
 
 Test Plan: Detailed objectives, scope, test environment, and deliverables.
