@@ -13,7 +13,8 @@ Test Cases: Specific, step-by-step test cases with expected outcomes.
 Test Summary: Results of executed tests, highlighting passed and failed cases.
 Test Metrics: Quantitative data on test coverage, defect density, and execution progress.
 
-Project Structure
+Project Structure:
+
 Test_Plan/ – Contains the detailed test plan document.
 Mind_Maps/ – Visual mind maps for Spotify's feature breakdown.
 Test_Scenarios/ – High-level scenarios categorized by modules.
